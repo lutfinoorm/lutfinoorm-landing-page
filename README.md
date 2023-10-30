@@ -1,3 +1,7 @@
+# Preparation
+- tutorial : https://www.youtube.com/watch?v=xdbMvSPuQWA
+- visual studio code
+
 # Start
 Start project:
 - create index.html
