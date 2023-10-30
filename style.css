@@ -1,3 +1,9 @@
-h1 {
-    color: blue;
+/* Colors */
+
+:root {
+    --red-dark-color: #540B0E;
+    --red-light-color: #9E2A2B;
+    --brown-color: #E09F3E;
+    --blue-color:  #335C67;
+    --skin-color: #FFF3B0
 }
