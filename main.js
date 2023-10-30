@@ -1,3 +1,3 @@
 document.getElementById('alert').addEventListener('click', () => {
-    alert("Testing javascript function!")
+    alert("https://youtu.be/xdbMvSPuQWA?t=1243")
 })
